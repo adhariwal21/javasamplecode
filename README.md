@@ -1,2 +1,2 @@
-# javasamplecode
-for demo use only
+# sample-web-app
+A Sample java web application
